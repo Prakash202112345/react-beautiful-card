@@ -1,0 +1,52 @@
+{
+  "name": "react-ui-card",
+  "version": "1.0.2",
+  "description": "A React component for creating beautiful, responsive cards with images, titles, and descriptions.",
+  "scripts": {
+    "build": "tsc"
+  },
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "card",
+    "react-ui-card",
+    "ui-components",
+    "cards",
+    "responsive-card",
+    "react-ui",
+    "customizable-card",
+    "image-card",
+    "react-card",
+    "css",
+    "javascript",
+    "frontend",
+    "ui-design",
+    "title-card",
+    "description-card",
+    "react-react-ui-card"
+  ],
+  "author": "Prakash Sharma",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "types": "dist/Index.d.ts",
+  "module": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/react-ui-card.git"
+  },
+  "dependencies": {
+    "clsx": "^2.1.1"
+  },
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-dom": ">=16.8.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "typescript": "^5.7.2"
+  }
+}
